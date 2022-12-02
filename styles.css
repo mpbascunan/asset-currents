@@ -29,6 +29,7 @@
   
   body {
     background: white;
+    background-position: center;
     background-image: url('https://thumbs.dreamstime.com/b/fondo-de-textura-madera-vista-superior-una-mesa-antigua-con-grietas-superficie-nublada-color-natural-y-patr%C3%B3n-material-granero-170461133.jpg');
     color: #222;
     font-family: 'Caveat';
@@ -48,7 +49,7 @@
     max-height: 500px;
     min-height: 300px;
     width: 800px;
-    background-image: url('https://www.texturepalace.com/gallery/book/vintage-book-3-series/vintage-book-texture-3.jpg');
+    background-image: url('vintage-book-texture-3.jpg');
     position: absolute;
     top: 0; left: 0; bottom: 0; right: 0;
     margin: auto;
@@ -74,7 +75,7 @@
       width: 100%;
       position: absolute;
       background-color: hsl(30,40%,70%);
-      background-image: url('http://inspirationhut3.inspirationhut.netdna-cdn.com/wp-content/uploads/2012/11/Old-Paper-Texture-3.jpg');
+      background-image: url('Old-Paper-Texture-3.jpg');
       background-size: 100% 100%;
       backface-visibility: hidden;
       overflow: auto;
